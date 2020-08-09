@@ -9,6 +9,10 @@ public class Git002 {
 		System.out.println("this is third commit from local master");
 		System.out.println("this is the first changes from local master");
 		System.out.println("another change ");
+		
+		
+		
+		System.out.println("this is second  commit from local master");
 
 	}
 
