@@ -16,7 +16,7 @@ public class Git002 {
 		System.out.println("another change ");
 		System.out.println("first commit fatih branch");
 		System.out.println("insallah last one ");
-		System.out.println("insallah last one ");
+		System.out.println("insallah last conflict ");
 	}
 
 }
